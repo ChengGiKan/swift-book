@@ -829,7 +829,7 @@ make the same change here also.
 > *external-parameter-name* → *identifier* \
 > *local-parameter-name* → *identifier* \
 > *parameter-type-annotation* → **`:`** *attributes*_?_ *parameter-modifier*_?_ *type* \
-> *parameter-modifier* → **`inout`** | **`borrowing`** | **`consuming`**
+> *parameter-modifier* → **`inout`** | **`borrowing`** | **`consuming`** \
 > *default-argument-clause* → **`=`** *expression*
 
 > Grammar of an enumeration declaration:
